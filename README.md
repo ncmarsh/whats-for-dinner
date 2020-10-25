@@ -14,6 +14,7 @@ View it live on [github-pages](https://ncmarsh.github.io/whats-for-dinner/)
 - [Built With](#Built-With)
 - [Contact](#Contact)
 - [Contributing](#Contributing)
+- [License](#License)
 
 
 ## About the Project
@@ -118,7 +119,5 @@ This is a personal project; no contributions are required at this time.
 ## License
 
 No license granted.
-
-**Project Link:** [https://github.com/ncmarsh/whats-for-dinner](https://github.com/ncmarsh/whats-for-dinner)
 
 ##### [Return to Top of Page](#What's-For-Dinner?)
