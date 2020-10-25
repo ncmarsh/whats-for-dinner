@@ -1,5 +1,8 @@
 # What's for Dinner? 
 
+![GitHub language count](https://img.shields.io/github/languages/count/ncmarsh/whats-for-dinner)
+![GitHub top language](https://img.shields.io/github/languages/top/ncmarsh/whats-for-dinner)
+
 Explore the [project page](https://github.com/ncmarsh/whats-for-dinner)
 
 View it live on [github-pages](https://ncmarsh.github.io/whats-for-dinner/)
