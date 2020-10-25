@@ -1,21 +1,22 @@
 # What's for Dinner? 
 
-Explore the [project page](https://github.com/cynthiwu/whats-for-dinner)
+Explore the [project page](https://github.com/ncmarsh/whats-for-dinner)
 
-View it live on [github-pages](https://cynthiwu.github.io/whats-for-dinner/)
+View it live on [github-pages](https://ncmarsh.github.io/whats-for-dinner/)
 
 ## Table of Contents
-- [About The Project](#about-the-project)
-    - [User Story](#user-story)
-    - [Acceptance Criteria](#acceptance-criteria)
-- [Usage](#usage)
-  - [Demo](#demo)
-- [Future Development](#future-development)
-- [Built With](#built-with)
-- [Contact](#contact)
+- [About The Project](#About-the-Project)
+    - [User Story](#User-Story)
+    - [Acceptance Criteria](#Acceptance-Criteria)
+- [Usage](#Usage)
+  - [Demo](#Demo)
+- [Future Development](#Future-Development)
+- [Built With](#Built-With)
+- [Contact](#Contact)
+- [Contributing](#Contributing)
 
 
-## About The Project
+## About the Project
 
 The goal of this project was to create an application that will lift some of the burden of deciding what to make for dinner. The "What's for Dinner?" application allows the user to search for online recipes based on ingredients he/she may have on-hand. Additionally, users will have the option to save recipes for future use, which can easily be converted to a PDF to be used offline, or for the more tangible owners of the printer, printed out on paper. 
 <hr>
@@ -110,4 +111,14 @@ This project was built using:
 * Ian Wren - [@luckyian](https://github.com/luckyian)
 * Nicole Marshall - [@ncmarsh](https://github.com/ncmarsh)
 
-**Project Link:** [https://github.com/cynthiwu/whats-for-dinner](https://github.com/cynthiwu/whats-for-dinner)
+## Contributing
+
+This is a personal project; no contributions are required at this time.
+
+## License
+
+No license granted.
+
+**Project Link:** [https://github.com/ncmarsh/whats-for-dinner](https://github.com/ncmarsh/whats-for-dinner)
+
+##### [Return to Top of Page](#What's-For-Dinner?)
